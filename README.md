@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey there! I'm an aspring web developer haling from the land down under!
+
+
+Languages used:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theblueruby&show_icons=true&locale=en&exclude_repo=yet-another-metroidvania&theme=github_dark" alt="Github language stats" /></p>
 
 <!--
 **oliverjhn/oliverjhn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

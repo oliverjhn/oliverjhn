@@ -1,4 +1,5 @@
 ### A bit about me
 -  Linux and FOSS enthusiast
--  Rust 4 Life
--  Learning full-stack development via The Odin Project
+-  Enjoys painfully self-hosting game servers
+-  Rust 4 Life (Despite having not used in over a year lol)
+-  Working to fix the world's education system
